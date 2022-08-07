@@ -1,8 +1,6 @@
 # AndroidProject-medico
 
-This project is an application skeleton for [Node.js](https://nodejs.org/) web app.
 
-[![Build Status](https://travis-ci.org/FortechRomania/express-mongo-example-project.svg?branch=master)](https://travis-ci.org/FortechRomania/express-mongo-example-project)
 
 ## Getting Started
 
