@@ -9,7 +9,7 @@ This project is an application skeleton for [Node.js](https://nodejs.org/) web a
 To get you started you can simply clone the repository:
 
 ```
-git clone https://github.com/abidimomen/backend-bookit
+git clone https://github.com/hassayouneM/Medico_Android_BackEnd
 ```
 
 and install the dependencies
